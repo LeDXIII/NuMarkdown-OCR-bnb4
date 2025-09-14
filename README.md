@@ -21,6 +21,8 @@
 *   **Оптимизация памяти**: Использует 4-битное квантование (bnb4) для работы с большими моделями на видеокартах с 8+ ГБ VRAM.
 *   **Удобный интерфейс**: Чистый, интуитивно понятный интерфейс с логом процесса и кнопкой для копирования результата.
 
+<img width="1490" height="1191" alt="image" src="https://github.com/user-attachments/assets/311e8ec8-588d-465b-9514-48cd08c93a02" />
+
 ---
 
 ### ⚙️ Принцип работы:
@@ -60,6 +62,8 @@ Unlike traditional OCR systems, NuMarkdown OCR provides **flexible output contro
 *   **Model Management**: Automatically scans the `model_bnb4` folder and lets you switch models via a dropdown menu.
 *   **Memory Optimization**: Uses 4-bit quantization (bnb4) to run large models on GPUs with 8+ GB VRAM.
 *   **User-Friendly Interface**: Clean, intuitive UI with a real-time log and one-click copy button.
+
+<img width="1490" height="1191" alt="image" src="https://github.com/user-attachments/assets/eaa5d752-0c04-424f-b947-ef152952e43d" />
 
 ---
 
