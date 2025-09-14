@@ -39,7 +39,8 @@
     *Поддерживает CUDA 11.8–12.4 и Python 3.10+. Минимальная версия Python — 3.8.*
 3.  **Скачайте квантованную модель** и поместите её в папку `model_bnb4`:  
     → **[LeDXIII/NuMarkdown-8B-Thinking-bnb4](https://huggingface.co/LeDXIII/NuMarkdown-8B-Thinking-bnb4)** — специально подготовленная модель для распознавания манги, рукописного текста, таблиц и графиков.
-4.  **Запустите `run.bat`** — и начинайте работу!
+    Все файлы модели должны лежать во вложенной папке с её именем! Программа сканирует папку, и выводит все имена папок, которые находит. 
+5.  **Запустите `run.bat`** — и начинайте работу!
 
 ---
 
@@ -78,4 +79,5 @@ Unlike traditional OCR systems, NuMarkdown OCR provides **flexible output contro
     *Supports CUDA 11.8–12.4 and Python 3.10+. Minimum Python version: 3.8.*
 3.  **Download the quantized model** and place it in the `model_bnb4` folder:  
     → **[LeDXIII/NuMarkdown-8B-Thinking-bnb4](https://huggingface.co/LeDXIII/NuMarkdown-8B-Thinking-bnb4)** — a specially prepared model for manga, handwriting, tables, and charts.
-4.  **Run `run.bat`** — and start using the app!
+    All model files must be in a subfolder with its name! The program scans the folder and displays all the folder names it finds.
+5.  **Run `run.bat`** — and start using the app!
